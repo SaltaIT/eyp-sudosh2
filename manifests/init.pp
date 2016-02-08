@@ -73,6 +73,4 @@ class sudosh2 (
     hour    => $cleanup_hour,
     minute  => $cleanup_minute,
   }
-
-
 }
