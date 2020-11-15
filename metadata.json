@@ -1,7 +1,7 @@
 {
   "name": "eyp-sudosh2",
-  "version": "0.1.0",
-  "author": "eyp",
+  "version": "1.0.0",
+  "author": "Jordi Prats",
   "summary": "installs sudosh from a custom rpm",
   "license": "Apache-2.0",
   "source": "",
